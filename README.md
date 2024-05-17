@@ -9,5 +9,4 @@
 - 🤔 I’m looking for help mastering responsive design
 - 📫 How to reach me: reyna01sm@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
