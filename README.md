@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning CSS, JavaScript and Bootstrap
 - 👯 I’m looking to collaborate on open source projects related to web development
 - 🤔 I’m looking for help mastering responsive design
-- 💬 Ask me about tips for getting started in web development
 - 📫 How to reach me: reyna01sm@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
