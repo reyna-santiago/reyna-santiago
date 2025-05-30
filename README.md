@@ -19,11 +19,11 @@ Actualmente, colaboro como instructora en **Tecnolochicas** 💜, un programa qu
 - 📚 **MySQL**:  
   Consultas y manejo de bases de datos.
 - ☕ **Java**:  
-  Conocimientos básicos, he trabajado con entornos como IntelliJ, Eclipse y Netbeans.
+  Conocimientos básicos, he trabajado con entornos como IntelliJ, Eclipse y Netbeans. 
 - 🐍 **Python**:  
-  Nociones de sintaxis (Pueden encontrar algunos ejemplitos de programas en uno de mis repositorios).
+  Nociones de sintaxis (Pueden encontrar algunos ejemplitos de programas [aquí](https://github.com/reyna-santiago/sintaxis-basica-python)).
 - 🤖 **MATLAB**:  
-  Nociones básicas de redes neuronales (un pequeño proyecto en un repositorio).
+  Nociones básicas de redes neuronales (un pequeño proyecto [aquí](https://github.com/reyna-santiago/Clasificador-de-animales)).
 
 ## Entornos de desarrollo
 
