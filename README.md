@@ -8,8 +8,6 @@ A lo largo de mi formación y experiencia, he tenido la oportunidad de:
 - Editar contenido digital 🎨🎥
 - Participar en iniciativas enfocadas en la gestión de datos y la optimización de procesos 📊⚙️
 
-Actualmente, colaboro como instructora en **Tecnolochicas** 💜, un programa que busca inspirar a más chicas a adentrarse en el mundo STEM. Soy feliz compartiendo lo que sé, aprendiendo constantemente y motivando a otras personas a atreverse a experimentar y crear ✨.
-
 ## Lenguajes y tecnologías
 
 - 🖥️ **HTML & CSS**:  
