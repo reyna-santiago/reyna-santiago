@@ -36,6 +36,6 @@ A lo largo de mi formación y experiencia, he tenido la oportunidad de:
 Me encantan los retos creativos 🎯, trabajar en equipo 🤝 y siempre estoy en búsqueda de nuevas formas de mejorar y crecer profesionalmente.
 
 📌 Encuéntrame en **LinkedIn**:  
-[www.linkedin.com/in/reynaguadalupesantiagomorale](https://www.linkedin.com/in/reynaguadalupesantiagomorale)
+[www.linkedin.com/in/reynaguadalupesantiagomorales](https://www.linkedin.com/in/reynaguadalupesantiagomorales)
 
 ¡Gracias por darte una vuelta por aquí! 🚀✨
